@@ -1,37 +1,32 @@
 [
   {
-    "icon": "Blog",
-    "name": "博客",
-    "link": "https://blog.imsyy.top/"
+    "icon": "AppStoreIos",
+    "name": "软件商店",
+    "link": "https://ios.feiwang.cc/"
   },
   {
     "icon": "Cloud",
     "name": "网盘",
-    "link": "https://pan.imsyy.top/"
+    "link": "https://app.feiwang.cc/"
   },
   {
-    "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://music.imsyy.top/"
+    "icon": "AppStore24Regular",
+    "name": "轻松签订阅",
+    "link": "esign://addsource?url=https://ipa.feiwang.cc/AppStore"
   },
   {
-    "icon": "Compass",
-    "name": "起始页",
-    "link": "https://nav.imsyy.top/"
+    "icon": "AddShoppingCartSharp",
+    "name": "飞卡网",
+    "link": "https://m.feiwang.cc/"
   },
   {
-    "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.imsyy.top/"
+    "icon": "GameController",
+    "name": "游戏科技网",
+    "link": "https://feiwang.ziyun168.top/kj/"
   },
   {
-    "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https://hot.imsyy.top/"
+    "icon": "AppStore24Regular",
+    "name": "全能签订阅",
+    "link": "nsk-sign://addsource?url=https://ipa.feiwang.cc/AppStore"
   },
-  {
-    "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://status.imsyy.top/"
-  }
 ]
